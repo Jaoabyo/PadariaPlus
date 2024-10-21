@@ -1,0 +1,53 @@
+body{
+    font-family: tahoma;
+    margin: 0;
+    background-color: aliceblue;
+}
+.secao{
+    width: 700px;
+    margin: 20px auto;
+    text-align: center;
+}
+.img-logotipo{
+    height:200px; 
+
+}
+a{
+    padding-left: 10px;
+}
+h1{
+    font-size: 28px;
+}
+.secao-sobre h2{
+    color: #de8e37;
+    text-decoration: underline;
+}
+h2{
+    font-weight: normal;
+    
+    margin-top: 10px;
+}
+.img-produtos{
+    width: 700px;
+}
+.secao-produtos h3{
+    font-size:  24px;
+}
+.secao-produtos img{
+    width: 680px;
+   
+  
+}
+.secao-produtos{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: #de8e37;
+}
+.secao-produtos h2{
+    font-weight: bold;
+}
+.secao-produtos p{
+    margin-bottom: 30px;
+    font-family: tahoma;
+    font-size: 18px;
+}
